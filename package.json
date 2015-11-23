@@ -14,5 +14,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jshthornton/track-browser-features/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
   }
 }
